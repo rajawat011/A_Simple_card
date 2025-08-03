@@ -10,10 +10,11 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #2d2e36;
+    font-family: 'Poppins', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 section {
-    width: 356px;
-    height: 616px;
+    width: 310px;
+    height: 600px;
     border-radius: 8px;
     padding: 25px;
     background-color: #383A45;
@@ -21,6 +22,36 @@ section {
 
 img {
     width: 304px;
-    height: 290px;
+    margin-bottom: 26px;
     border-radius: 10px;
 }
+
+h1 {
+    font-size: 30px;
+    color: #FFFFFF;
+}
+p {
+    color: #8D91A6;
+    margin: 43px 0 15px 0;
+    font-size: 16px;
+    width: 296px;
+    height: 112px;
+}
+
+.icon {
+    width: 20px;
+    height: 22px;
+    border-radius: 0cap;
+}
+
+/* @media (min-width: 420px) {
+    section {
+        width: 700px;
+        height: 294px;
+        display: flex;
+        gap: 38px;
+    }
+    section img {
+        margin-bottom: 0cap;
+    }
+} */
