@@ -44,7 +44,7 @@ p {
     border-radius: 0cap;
 }
 
-/* @media (min-width: 420px) {
+@media (min-width: 420px) {
     section {
         width: 700px;
         height: 294px;
@@ -54,4 +54,4 @@ p {
     section img {
         margin-bottom: 0cap;
     }
-} */
+}
